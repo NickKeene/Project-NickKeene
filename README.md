@@ -2,6 +2,7 @@
 **Description:** This project serves as a personal informational page regrading myself.
 * This front page will serve as a nagvigation portal for my site. 
 <img src="IMG_5902.jpg" width=50% height=50%>
+
 ## General Information
 **What to expect:**
 * Basic Background
